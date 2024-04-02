@@ -7,7 +7,7 @@ To try out the programs I wrote, check out [RELEASES](https://github.com/Grayson
 
 Any text documents I submitted, I have converted to Markdown to make it easy to read.
 
-### Repo Map
+### Repository Map
  - [First Semester Assignments](https://github.com/GraysonHuey/AP-CSP-Assignments/tree/1/First%20Semester)
 	 - [Unit 1 - Computational Thinking](https://github.com/GraysonHuey/AP-CSP-Assignments/tree/1/First%20Semester/Unit%201%20-%20Computational%20Thinking)
 		 - [1.2 - Writing Algorithms](https://github.com/GraysonHuey/AP-CSP-Assignments/blob/main/First%20Semester/Unit%201%20-%20Computational%20Thinking/1.2%20-%20Writing%20Algorithms.md)
